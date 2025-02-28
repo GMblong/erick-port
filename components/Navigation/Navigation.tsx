@@ -45,13 +45,10 @@ export const Navigation = ({ isOpen, toggleOpen }: any) => {
             alt="adeola logo icon"
           />
           <span className="brand-logo__text-wrapper">
-            <img
-              className="brand-logo__text"
-              src="svg/adeola-logo-right.svg"
-              alt="adeola logo text"
-            />
+            <span className="brand-logo__text">Erick Nurdiyanto</span>
           </span>
         </Link>
+
         <MenuToggle toggle={toggleOpen} toggleState={isOpen} />
       </div>
     </motion.div>
