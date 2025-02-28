@@ -86,7 +86,7 @@ const index: React.FC<indexProps> = () => {
 
     console.clear();
     console.log.apply(console, [
-      "%c Designed and Developed by Adeola Adeoti %c %c🚀 %c\n",
+      "%c Designed and Developed by Erick Nurdiyanto %c %c🚀 %c\n",
       "color: #fff; background: #8000ff; padding:5px 0;",
       "color: #fff; background: #242424; padding:5px 0 5px 5px;",
       "background: #242424; padding:5px 0",
@@ -123,7 +123,7 @@ const index: React.FC<indexProps> = () => {
       <div id="menu-target" data-scroll-container ref={refScroll}>
         <Head>
           <link rel="icon" href="svg/favicon.svg" />
-          <link href="https://adeolaadeoti.xyz/" rel="canonical" />
+          <link href="https://Erickadeoti.xyz/" rel="canonical" />
           <meta name="theme-color" content="#10101A" />
           <meta
             name="apple-mobile-web-app-status-bar-style"
@@ -137,9 +137,9 @@ const index: React.FC<indexProps> = () => {
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content="Adeola Adeoti 🚀 &mdash; Frontend Devloper"
+            content="Erick Nurdiyanto 🚀 &mdash; Frontend Devloper"
           />
-          <meta property="og:url" content="https://adeolaadeoti.xyz/" />
+          <meta property="og:url" content="https://Erickadeoti.xyz/" />
           <meta property="og:image" content="webp/preview-image.png" />
           <meta
             property="og:description"
@@ -147,7 +147,7 @@ const index: React.FC<indexProps> = () => {
           />
           <meta
             name="twitter:title"
-            content="Adeola Adeoti 🚀 &mdash; Frontend Devloper"
+            content="Erick Nurdiyanto 🚀 &mdash; Frontend Devloper"
           />
           <meta
             name="twitter:description"
@@ -155,7 +155,7 @@ const index: React.FC<indexProps> = () => {
           />
           <meta name="twitter:image" content="webp/preview-image.png" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:url" content="https://adeolaadeoti.xyz/" />
+          <meta name="twitter:url" content="https://Erickadeoti.xyz/" />
         </Head>
         <audio loop id="audioPlayer" autoPlay style={{ display: "none" }}>
           <source src="sound/preloader.mp3" type="audio/mp3" />
@@ -173,7 +173,7 @@ const index: React.FC<indexProps> = () => {
               animate={{ x: 0, opacity: 1, transition: { ...transition } }}
               className="preloader__left"
             >
-              <img src="svg/adeola-logo-left.svg" alt="adeola logo" />
+              <img src="svg/Erick-logo-left.svg" alt="Erick logo" />
             </motion.div>
             <motion.div
               initial={{ x: 10, opacity: 0 }}
@@ -278,28 +278,28 @@ const index: React.FC<indexProps> = () => {
             </div>
             <div className="header__footer--right">
               <a
-                href="https://github.com/adeolaadeoti"
+                href="https://github.com/Erickadeoti"
                 rel="noopener"
                 target="_blank"
               >
                 👾 GH
               </a>
               <a
-                href="https://twitter.com/adeolajs"
+                href="https://twitter.com/Erickjs"
                 rel="noopener"
                 target="_blank"
               >
                 🐦 TW
               </a>
               <a
-                href="https://www.linkedin.com/in/adeoladev"
+                href="https://www.linkedin.com/in/Erickdev"
                 rel="noopener"
                 target="_blank"
               >
                 💼 LD
               </a>
               <a
-                href="https://www.instagram.com/adeolaadeoti_"
+                href="https://www.instagram.com/Erickadeoti_"
                 rel="noopener"
                 target="_blank"
               >
@@ -311,7 +311,7 @@ const index: React.FC<indexProps> = () => {
         </div>
         <main className="container">
           <p className="about-text">
-            Hello stranger! 👋, my name is adeola and I am a frontend engineer,
+            Hello stranger! 👋, my name is Erick and I am a frontend engineer,
             passionate <br /> about digital products that help people experience
             everyday life, not endure it.
           </p>
@@ -362,7 +362,7 @@ const index: React.FC<indexProps> = () => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/adeolaadeoti/alexxandria"
+                    href="https://github.com/Erickadeoti/alexxandria"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -394,7 +394,7 @@ const index: React.FC<indexProps> = () => {
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://safarika-adeola.netlify.app/"
+                  href="https://safarika-Erick.netlify.app/"
                   className="project-card__link"
                 >
                   VISIT THE WEBSITE
@@ -410,7 +410,7 @@ const index: React.FC<indexProps> = () => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/adeolaadeoti/safarika"
+                    href="https://github.com/Erickadeoti/safarika"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -457,7 +457,7 @@ const index: React.FC<indexProps> = () => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/adeolaadeoti/heatrow"
+                    href="https://github.com/Erickadeoti/heatrow"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -473,24 +473,24 @@ const index: React.FC<indexProps> = () => {
                 className="project-card__middle"
                 data-displacement="webp/myDistorsionImage.webp"
               >
-                <img src="webp/adeola-1.webp" alt="adeola model" />
-                <img src="webp/adeola-2.webp" alt="adeola logo" />
+                <img src="webp/Erick-1.webp" alt="Erick model" />
+                <img src="webp/Erick-2.webp" alt="Erick logo" />
               </div>
               <div className="project-card__right">
                 <h2
                   data-scroll
                   data-scroll-offset="35%"
                   data-scroll-repeat={true}
-                  data-scroll-class="adeola-anim"
+                  data-scroll-class="Erick-anim"
                   className="heading-2"
                 >
-                  AdeolaAdeoti
+                  ErickAdeoti
                   <br /> version 1
                 </h2>
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://github.com/adeolaadeoti/adeolaadeoti-portfolio"
+                  href="https://github.com/Erickadeoti/Erickadeoti-portfolio"
                   className="project-card__link"
                 >
                   VIEW SOURCE CODE
@@ -499,14 +499,14 @@ const index: React.FC<indexProps> = () => {
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://dribbble.com/shots/12338926-Adeola-Adeoti-Portfolio"
+                    href="https://dribbble.com/shots/12338926-Erick-Adeoti-Portfolio"
                   >
                     <img src="svg/dribble.svg" alt="dribble icon" />
                   </a>
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/adeolaadeoti/adeolaadeoti-portfolio"
+                    href="https://github.com/Erickadeoti/Erickadeoti-portfolio"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -577,7 +577,7 @@ const index: React.FC<indexProps> = () => {
               of creative designers and developers. If you think we might be a
               good fit for one another, send me an
               <a
-                href="mailto:adeolaonigegeara@gmail.com"
+                href="mailto:Erickonigegeara@gmail.com"
                 rel="noopener"
                 target="_blank"
               >
@@ -593,28 +593,28 @@ const index: React.FC<indexProps> = () => {
             <p className="paragraph">Connect with me online</p>
             <div className="section-socials--links">
               <a
-                href="https://github.com/adeolaadeoti"
+                href="https://github.com/Erickadeoti"
                 rel="noopener"
                 target="_blank"
               >
                 👾 GitHub
               </a>
               <a
-                href="https://twitter.com/adeolajs"
+                href="https://twitter.com/Erickjs"
                 rel="noopener"
                 target="_blank"
               >
                 🐦 Twitter
               </a>
               <a
-                href="https://www.linkedin.com/in/adeoladev"
+                href="https://www.linkedin.com/in/Erickdev"
                 rel="noopener"
                 target="_blank"
               >
                 💼 LinkedIn
               </a>
               <a
-                href="https://www.instagram.com/adeolaadeoti_"
+                href="https://www.instagram.com/Erickadeoti_"
                 rel="noopener"
                 target="_blank"
               >
@@ -625,19 +625,19 @@ const index: React.FC<indexProps> = () => {
         </main>
         <footer className="footer">
           <img
-            src="svg/adeola-logo-footer.svg"
-            alt="design and devloped by adeola"
+            src="svg/Erick-logo-footer.svg"
+            alt="design and devloped by Erick"
           />
           <div className="footer__socials">
             <a
-              href="https://dribbble.com/shots/16100745-Adeola-Adeoti-Personal-Website"
+              href="https://dribbble.com/shots/16100745-Erick-Adeoti-Personal-Website"
               target="_blank"
               rel="noopener"
             >
               <img src="svg/dribble.svg" alt="dribble logo" />
             </a>
             <a
-              href="https://github.com/adeolaadeoti/adeolaadeoti-v2"
+              href="https://github.com/Erickadeoti/Erickadeoti-v2"
               target="_blank"
               rel="noopener"
             >
