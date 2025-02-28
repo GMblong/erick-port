@@ -129,7 +129,7 @@ const index: React.FC<indexProps> = () => {
             name="apple-mobile-web-app-status-bar-style"
             content="#10101A"
           />
-          <title>Adeola Adeoti 🚀 &mdash; Frontend Devloper</title>
+          <title>Erick Nurdiyanto 🚀 &mdash; IT Support</title>
           <meta
             name="description"
             content="I'm a self-taught Front End Developer and turning ideas into real life products is my calling."
